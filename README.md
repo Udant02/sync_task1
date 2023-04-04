@@ -1,3 +1,3 @@
-# synk-interns-task-1
+# sync_task1
 
 Product Landing Page
